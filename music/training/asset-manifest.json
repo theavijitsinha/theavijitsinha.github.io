@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/music/training/static/css/main.ff793183.css",
-    "main.js": "/music/training/static/js/main.7d7108f1.js",
+    "main.css": "/music/training/static/css/main.3edb8d54.css",
+    "main.js": "/music/training/static/js/main.99416fd4.js",
     "static/js/453.b77b5534.chunk.js": "/music/training/static/js/453.b77b5534.chunk.js",
     "index.html": "/music/training/index.html",
-    "main.ff793183.css.map": "/music/training/static/css/main.ff793183.css.map",
-    "main.7d7108f1.js.map": "/music/training/static/js/main.7d7108f1.js.map",
+    "main.3edb8d54.css.map": "/music/training/static/css/main.3edb8d54.css.map",
+    "main.99416fd4.js.map": "/music/training/static/js/main.99416fd4.js.map",
     "453.b77b5534.chunk.js.map": "/music/training/static/js/453.b77b5534.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff793183.css",
-    "static/js/main.7d7108f1.js"
+    "static/css/main.3edb8d54.css",
+    "static/js/main.99416fd4.js"
   ]
 }
